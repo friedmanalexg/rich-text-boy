@@ -1,1 +1,1 @@
-Hello please.
+This is a simple implementation of CKEditor because I don't actually believe it works.
